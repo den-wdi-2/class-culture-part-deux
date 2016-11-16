@@ -1,4 +1,66 @@
-# Setting you up for success
+## Emotional Framing
+- Programming is not about learning a sequence of steps, it's about developing a mindset to solve problems and think programmatically.
+- Language not important
+    - critical/analytical/programatic thinking.
+    - don't memorize, conceptualize ideas.
+        - the internet is your notebook/memory
+    - be able to adapt quickly
+- Deal with chaos in your head. Being confused/lost is NORMAL. No one pays you because you know all the answers. The job is about jumping into confusion and being able to find a solution.
+- Development can be very personal
+	- Debugging your own mistakes
+	- Being a good "Googler" and reading tech documents takes practice
+	- You learn more by doing than by listening
+	- We try not to hold your hand
+		- There is a decent amount of failure that happens initially
+			- good to get that out of the way before starting work
+- The maximum point of learning is right at the edge of learning and panic.
+![learning zone](learning-zone.jpeg)
+
+## You Are Not Your Code!
+
+## Classroom Culture
+- Open safe environment
+- Take ownership of your experience
+- Check your ego at the door
+- Empathy
+- Don't compare yourself to others, compare yourself to who you were yesterday
+- You get what you put in
+
+## Mentorship Culture
+- Take care of each other
+- Benchmarking; some are good at one thing, others at another. Leverage each other's strengths.
+- Teaching is the best way of truly solidifying your understanding of a concept.
+- Your classmates will be the best foundation for establishing a professional network in tech!
+
+## Common Student Worries
+1. I'm making a lot of mistakes
+1. Imposter syndrome
+1. I don't "do" math
+1. What's the best practice? Finding the one "correct" answer
+	- Best practices change constantly and from company to company
+	- If you think properly, you'll probably naturally arrive at a best practice
+	- All that matters is "Does it work?"
+		- A company that hires someone with 3 months of experience doesn't really care about code quality
+		- Use your time to learn new technology or strengthen your problem solving
+1. Having a perfect understanding of everything
+	- Class is set up to accommodate students of all abilities
+		- Scaffolded lecture notes, homework, and projects
+	- We make sure you understand at least the most important concepts
+1. Having an amazing portfolio/completing all assignments
+	- all projects suck
+		- what matters is the ability to think
+	- don't worry about completing every lab/homework
+		- they're there as an exercise in thinking
+		- completing and sleeping for 2 hours is worse than sleeping and not completing
+1. Asking the instructional team questions
+	- For lecture and labs, ask questions constantly
+	- For Homework, queue up with the evening TA
+		- This will force you to do some debugging on your own, but it will also give you a quick resource if you're stuck
+	- Projects is your time to see what the real world will be like
+		- the more time you spend fixing, the more you learn
+		- receiving an answer stops the learning process
+
+## Setting you up for success
 
 Read through the following.  Write down five things that you learned from reading this.  Write down five things that you plan to change about yourself when taking this class.
 
