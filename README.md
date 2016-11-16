@@ -64,7 +64,7 @@
 
 ## Setting you up for success
 
-Read through the following.  Write down five things that you learned from reading this.  Write down five things that you plan to change about yourself when taking this class.
+Read through the following.  Write down / type your five major takeaways.
 
 - Check your homework by figuring out ways to test your answers to see if they are correct.  Don't wait for feedback.
 	- You should be able to answer the question "did I do it right?" on your own.
@@ -106,7 +106,7 @@ Read through the following.  Write down five things that you learned from readin
 - Learn what kind of mistakes you make
 - Type things out, don't copy and paste.  Copy and pasting takes your mind off of what you're doing.
 - There is a disconnect between knowing something at a conceptual level and being able to use it.  Make sure you can do both
-	- Just because you can look at code and understand it, doesn't mean you can build something like it
+	- Just because you can look at code and understand it, it doesn't mean you can build something like it
 - We create increasing levels of independence: lecture (very hands on) -> lab -> homework -> project (very hands off)
 	- This is to ease you into what it will be like in real life
 - Your community of students is the best aspect of GA. They will help you with finding work and help you when you are stuck on a problem at work
