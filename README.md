@@ -1,3 +1,5 @@
+# Classroom Culture and Project Week
+
 ## Emotional Framing
 - Programming is not about learning a sequence of steps, it's about developing a mindset to solve problems and think programmatically.
 - Language not important
