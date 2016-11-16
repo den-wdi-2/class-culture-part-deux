@@ -1,1 +1,48 @@
-# class-culture-part-deux
+# Setting you up for success
+
+Read through the following.  Write down five things that you learned from reading this.  Write down five things that you plan to change about yourself when taking this class.
+
+- Check your homework by figuring out ways to test your answers to see if they are correct.  Don't wait for feedback.
+	- You should be able to answer the question "did I do it right?" on your own.
+	- In the real world, you'll need to figure out how to test your code to see if it works.  You won't have someone to read your code and tell you if you did it right.
+	- There is no "best" solution.  Ultimately, the only thing that matters is, "does it work?"
+	- Code "quality" (how you write code) doesn't matter too much as a jr developer.  Only your ability to solve problems matters
+- Try to create a relationship with all other students. You don't know when you'll need a second set of eyes. Sometimes bugs are really stupid, and can be spotted by anyone.  It's like writing an essay where your eyes know what you're trying to say and don't see mistakes
+- growth mindset vs fixed mindset
+	- growth mindset
+		- people who believe that ability can be learned are highly successful
+	- fixed mindset
+		- people believe that ability is something you're born with are not successful
+	- focus on the learning process, not on the results of your current task
+		- you'll succeed more and have more fun
+	- different types of fixed mindsets.  Monitor your reactions for these feelings:
+		- You’re Wrong I Rule: person is unable to accept that they did something wrong
+		- You’re Right I Suck: any criticism immediately sends person into feeling like they're worthless
+		- Blame it On The Rain: any mistake a person makes is explained away by circumstance.  The person believes this won't happen again, so there's no need to correct
+		- Optimist Without a Cause: criticism is not important, given everything else that went well
+- Programming is like writing an essay in a language you don't know.  Know what you want to say and then research how to say it
+	- come up with the solution to a problem on your own and then research any syntax you might need in order to implement it.  Do not research the answer to the problem itself
+- Help out everyone.
+- Plagiarism (passing someone else's solution off as your own) will only result in you getting job that you're unqualified for and will get fired from
+	- Your employers will quickly discover that you don't know what you say you know
+	- If you feel you can't complete the work, come to your instructors and we can figure out a way for you to turn in something meaningful.  There is always a solution.
+- Project weeks
+	- community bonding time.  Help each other out
+	- a chance to simulate the real world and see where you need improvement
+		- this is where you'll get a lot of practice with researching and debugging
+- Bringing up your mistakes during class often illuminates good points to talk about
+	- it's very difficult as an instructor to come up with scenarios where a student will make a mistake, since everyone makes different kinds of mistakes
+- Don't compare yourself with other students. This is not school, where everyone comes in with roughly equivalent experience
+	- There is plenty of work available for graduates at all levels, as long as you fully understand the work you present to employers
+- Don't let problems/questions of any kind (programming or personal) fester. Bring them up immediately to an instructor.
+  - DM instructors for personal problems/questions
+  - GH issue in class slack channel for programming problems/questions
+- We only "open the doors" you have to walk through the door.  We guide you, but you'll have to do most of the work.
+- Learning how to debug your own code and read documentation/articles/forums takes practice.  This is not really something that can be taught.  Make sure you struggle and read a lot on the internet on your own time.  Don't immediately ask for help
+- Learn what kind of mistakes you make
+- Type things out, don't copy and paste.  Copy and pasting takes your mind off of what you're doing.
+- There is a disconnect between knowing something at a conceptual level and being able to use it.  Make sure you can do both
+	- Just because you can look at code and understand it, doesn't mean you can build something like it
+- We create increasing levels of independence: lecture (very hands on) -> lab -> homework -> project (very hands off)
+	- This is to ease you into what it will be like in real life
+- Your community of students is the best aspect of GA. They will help you with finding work and help you when you are stuck on a problem at work
