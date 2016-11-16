@@ -76,7 +76,7 @@ Read through the following.  Write down / type your five major takeaways.
 	- growth mindset
 		- people who believe that ability can be learned are highly successful
 	- fixed mindset
-		- people believe that ability is something you're born with are not successful
+		- people who believe that ability is something you're born with are not successful
 	- focus on the learning process, not on the results of your current task
 		- you'll succeed more and have more fun
 	- different types of fixed mindsets.  Monitor your reactions for these feelings:
